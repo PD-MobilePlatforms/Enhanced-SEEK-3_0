@@ -15,4 +15,5 @@ All corrections and contributions are welcome!!
 Change History
 ------------------------------------------
 
-Not yet
+  - Improved getAPPCerts() in AccessControlEnforcer.java
+  
